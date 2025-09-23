@@ -8,7 +8,7 @@
 
 Активируйте голосовое управление по нажатию на кнопку.
 
-![setup_1](images/setup_1.jpeg)
+![setup_1](images/setup_1.jpg)
 
 ---
 
@@ -16,7 +16,7 @@
 
 Выберите триггер: **нажатие на кнопку голосового управления**.
 
-![setup_2](images/setup_2.jpeg)
+![setup_2](images/setup_2.jpg)
 
 ---
 
@@ -24,7 +24,7 @@
 
 Перейдите в **Действия устройства → Отправить интент**.
 
-![setup_3](images/setup_3.jpeg)
+![setup_3](images/setup_3.jpg)
 
 ---
 
@@ -37,7 +37,7 @@
 - Категория: `by.by.vora.VoraVoiceService`
 - Данные: `by.by.vora`
 
-![setup_4](images/setup_4.jpeg)
+![setup_4](images/setup_4.jpg)
 
 ---
 
@@ -58,7 +58,7 @@
 Перейдите в:  
 **Настройки → Приложения → VORA → Батарея**
 
-![setup_5](images/setup_5.jpeg)
+![setup_5](images/setup_5.jpg)
 
 ---
 
@@ -67,7 +67,7 @@
 Выберите:  
 **Экономия заряда → Все приложения → VORA → Не экономить → Готово**
 
-![setup_6](images/setup_6.jpeg)
+![setup_6](images/setup_6.jpg)
 
 ---
 
