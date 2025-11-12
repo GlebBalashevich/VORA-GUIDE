@@ -33,7 +33,7 @@
 Создайте интент согласно изображению:
 
 - Цель: `Service`
-- Действие: `by.bg.vora.START.VOICE_INPUT`
+- Действие: `by.bg.vora.START_VOICE_INPUT`
 - Категория: `by.bg.vora.VoraVoiceService`
 - Данные: `by.bg.vora`
 
